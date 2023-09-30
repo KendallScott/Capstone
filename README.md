@@ -1,6 +1,6 @@
 # capstone
 
-### [Data API](/taddbackus/capstone/tree/main/Data API)
+### [Data API](</taddbackus/capstone/tree/main/Data%20API>)
 - Includes the various state queries to pull classification from the mines
 ### Data Files
 - excel files of data outputs
